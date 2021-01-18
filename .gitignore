@@ -1,0 +1,12 @@
+.DS_Store
+
+*.pyc
+
+migrations/
+.cache/
+
+# exclude all confs except the default sample
+conf/*
+!conf/sample
+!conf/syslog-ng.conf
+
