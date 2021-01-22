@@ -18,6 +18,9 @@ Committing code should happen in the following order:
 
 ### Getting Started
 
+#### Base Requirements
+Python 2.7
+
 It is recommended to create a single shared virtualenv for the Itinerum APIs with [virtualenv-wrapper](http://virtualenvwrapper.readthedocs.io), which makes virtualenvs friendlier to user. In the examples that follow, a virtualenv name of `itapi` will be used.
 
 #### Dependencies
